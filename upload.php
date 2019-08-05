@@ -30,3 +30,4 @@ if(isset($_POST['submit'])){
         echo "You can not upload files of this type!";
     }
 }
+?>
